@@ -9,5 +9,8 @@ echo "My first PHP script!";
 <?php
 echo "PHP second1234566666";
 ?>
+<?php
+echo "brank test1";
+?>
 </body>
 </html>
